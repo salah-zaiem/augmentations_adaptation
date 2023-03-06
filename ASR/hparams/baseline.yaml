@@ -1,7 +1,6 @@
 # ################################
 # Model: wav2vec2 + DNN + CTC
 # Augmentation: SpecAugment
-# Authors: Sung-Lin Yeh 2021
 # ################################
 #Params to run the first finetuning on LibriSpeech 
 

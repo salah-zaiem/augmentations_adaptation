@@ -3,9 +3,6 @@ Data preparation.
 
 Download: http://www.openslr.org/12
 
-Author
-------
-Mirco Ravanelli, Ju-Chieh Chou, Loren Lugosch 2020
 """
 
 import os

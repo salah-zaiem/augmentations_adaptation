@@ -8,14 +8,6 @@ The neural network is trained on CTC likelihood target and character units
 are used as basic recognition tokens. Training is performed on the full
 LibriSpeech dataset (960 h).
 
-Authors
- * Sung-Lin Yeh 2021
- * Titouan Parcollet 2021
- * Ju-Chieh Chou 2020
- * Mirco Ravanelli 2020
- * Abdel Heba 2020
- * Peter Plantinga 2020
- * Samuele Cornell 2020
 """
 
 import os
